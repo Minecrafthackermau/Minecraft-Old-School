@@ -1,6 +1,6 @@
 ## Minecraft Old-School
 
-This Project is to update the old Eaglercraft 1.3_01 into something new. Welcome to Old-School!
+This Project is to update the old Eaglercraft 1.3_01 into something new. Welcome to Old-School! This project originally was from Repl-it, until switched and remade.
 
 
 ## Compiling
