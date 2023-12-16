@@ -8,6 +8,8 @@ This Project is to update the old Eaglercraft 1.3_01 into something new. Welcome
 
 Just import this entire repository as a gradle project and use the **teavmc** gradle task. It will generate a `classes.js` in the `javascript` folder of this repository.
 
+New Updates To Assets.epk & Lwjgl-rundir/resources for new Old-School updates will have to be changed by you.
+
 To change any textures and stuff, make your changes in `lwjgl-rundir/resources` and then run `epkcompiler/run.bat` to generate a new `assets.epk` in the `javascript` folder where `classes.js` is. On linux/mac, open terminal and type `chmod +x run_unix.sh` and then `./run_unix.sh` to run the tool. Copy the new `javascript/assets.epk` onto your website over the old one to update it.
 
 **Make sure you install java and add it to your PATH, or these scripts will not work.**
