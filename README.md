@@ -20,6 +20,7 @@ To compile the server, read the [readme.txt](https://github.com/LAX1DUDE/eaglerc
 
 ## Project Contributors
 Saiyan Gonzalez (Creator)
+
 Radmanplays (Original Repo Creator)
 
 
