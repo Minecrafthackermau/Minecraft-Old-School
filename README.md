@@ -30,13 +30,13 @@ The default branch, with the new features included
 
 **1.0.16_05**
 
+A recreation of Alphaver in Eaglercraft Beta
+
 ## What's New?
 
 - New Textures
 - New Skins
 - New Music
-
-A recreation of alphaver in Eaglercraft Beta
 
 ## Project Contributors
 Saiyan Gonzalez (Creator)
