@@ -30,6 +30,12 @@ The default branch, with the new features included
 
 **1.0.16_05**
 
+## What's New?
+
+- New Textures
+- New Skins
+- New Music
+
 A recreation of alphaver in Eaglercraft Beta
 
 ## Project Contributors
