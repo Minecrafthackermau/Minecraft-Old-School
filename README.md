@@ -34,6 +34,10 @@ A recreation of Alphaver in Eaglercraft Beta
 
 ## What's New?
 
+The default branch, with new features included
+
+Features in this branch included:
+
 - New Textures
 - New Skins
 - New Music
