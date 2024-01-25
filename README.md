@@ -30,7 +30,7 @@ The default branch, with the new features included
 
 **1.0.16_05**
 
-A recreation of Alphaver in Eaglercraft Beta
+A recreation of Alphaver in Eaglercraft Beta (See README.md)
 
 ## What's New?
 
