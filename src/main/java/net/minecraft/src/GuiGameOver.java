@@ -14,6 +14,7 @@ public class GuiGameOver extends GuiScreen {
 
 	public void initGui() {
 		controlList.clear();
+		controlList.add(new GuiButton(1, width / 2 - 100, height / 4 + 72, "Respawn"));
 		controlList.add(new GuiButton(2, width / 2 - 100, height / 4 + 96, "Title menu"));
 		if (mc.session == null) {
 			((GuiButton) controlList.get(1)).enabled = false;
