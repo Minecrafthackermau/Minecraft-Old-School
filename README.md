@@ -41,6 +41,14 @@ Features in this branch included:
 - New Textures
 - New Skins
 - New Music
+- New Features
+
+## Texture Packs
+
+In 1.0.5a, the texture pack menu was added, as it was unused. To add a texture pack to the list, download and open the texture pack. To make a texture pack, you need to download the resources folder and edit it.
+
+![Screenshot 2024-03-10 10 16 15 PM](https://github.com/SaiyanGonzalez01/Minecraft-Old-School/assets/153963453/e3944dc4-c0f2-4d9d-93a0-1c65a762deb4)
+
 
 ## Project Contributors
 Saiyan Gonzalez (Creator)
