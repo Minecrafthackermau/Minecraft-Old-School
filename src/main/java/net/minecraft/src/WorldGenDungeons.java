@@ -159,7 +159,7 @@ public class WorldGenDungeons extends WorldGenerator {
 			return "Zombie";
 		}
 		if (i == 2) {
-			return "Zombie";
+			return "Creeper";
 		}
 		if (i == 3) {
 			return "Spider";
