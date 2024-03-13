@@ -39,6 +39,6 @@ public class EntityZombie extends EntityMobs {
 	}
 
 	protected int getDropItemId() {
-		return Item.feather.shiftedIndex;
+		return Item.apple.shiftedIndex;
 	}
 }
