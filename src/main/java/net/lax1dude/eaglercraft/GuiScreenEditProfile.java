@@ -51,6 +51,7 @@ public class GuiScreenEditProfile extends GuiScreen {
 			"Mezo",
 			"Hair Layered Steve",
 			"Ext1605 Steve"
+			"Mossy Steve"
 	};
 	
 	public static final TextureLocation[] defaultOptionsTextures = new TextureLocation[] {
@@ -76,6 +77,7 @@ public class GuiScreenEditProfile extends GuiScreen {
 			new TextureLocation("/skins/20.mezo.png")
 			new TextureLocation("/skins/21.hair_layered_steve.png")
 			new TextureLocation("/skins/22.ext1605_steve.png")
+			new TextureLocation("/skins/23.mossy_steve.png")
 	};
 	
 	protected String screenTitle = "Edit Profile";
