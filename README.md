@@ -2,8 +2,7 @@
 
 Welcome To Minecraft Old-School, a project that aims to add new features to Eaglercraft 1.3_01.
 
-![Screenshot 2023-11-18 7 33 26 PM](https://github.com/SaiyanGonzalez01/Minecraft-Old-School/assets/153963453/eadddfb4-08bb-48d1-92eb-703672c6ad32)
-
+![Screenshot 2024-02-12 3 51 12 PM](https://github.com/SaiyanGonzalez01/Minecraft-Old-School/assets/153963453/4b483027-043e-449c-9761-93bd9bdd7e2a)
 
 ## Compiling
 (From Original Repo)
