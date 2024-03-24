@@ -9,7 +9,7 @@ public class ItemFood extends Item {
 	public ItemFood(int i, int j) {
 		super(i);
 		healAmount = j;
-		maxStackSize = 1;
+		maxStackSize = 8;
 	}
 
 	public ItemStack onItemRightClick(ItemStack itemstack, World world, EntityPlayer entityplayer) {
