@@ -10,7 +10,7 @@ public class ItemDoor extends Item {
 		super(i);
 		field_321_a = material;
 		maxDamage = 64;
-		maxStackSize = 1;
+		maxStackSize = 4;
 	}
 
 	public boolean onItemUse(ItemStack itemstack, EntityPlayer entityplayer, World world, int i, int j, int k, int l) {
