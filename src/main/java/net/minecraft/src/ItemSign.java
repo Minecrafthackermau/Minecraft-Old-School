@@ -9,7 +9,7 @@ public class ItemSign extends Item {
 	public ItemSign(int i) {
 		super(i);
 		maxDamage = 64;
-		maxStackSize = 1;
+		maxStackSize = 4;
 	}
 
 	public boolean onItemUse(ItemStack itemstack, EntityPlayer entityplayer, World world, int i, int j, int k, int l) {
