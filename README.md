@@ -21,7 +21,7 @@ To compile the server, read the [readme.txt](https://github.com/LAX1DUDE/eaglerc
 
 ## Branches
 
-The Branches of the project with have different themes included:
+The Branches of the project will have different themes included:
 
 **Original**
 
