@@ -283,44 +283,7 @@ public class EaglerProfile {
 	
 	static {
 		String[] usernameDefaultWords = ConfigConstants.profanity ? new String[] {
-				"Eagler",
-				"Eagler",
-				"Bitch",
-				"Cock",
-				"Milf",
-				"Milf",
-				"Yeer",
-				"Groon",
-				"Eag",
-				"Deevis",
-				"Chode",
-				"Deev",
-				"Deev",
-				"Fucker",
-				"Fucking",
-				"Dumpster",
-				"Dumpster",
-				"Cum",
-				"Chad",
-				"Egg",
-				"Fudgler",
-				"Fudgli",
-				"Yee",
-				"Yee",
-				"Yee",
-				"Yeet",
-				"Flumpter",
-				"Darvy",
-				"Darver",
-				"Darver",
-				"Fuck",
-				"Fuck",
-				"Frick",
-				"Eagler",
-				"Vigg",
-				"Vigg",
-				"Cunt",
-				"Darvig"
+				"Guest",
 		} : new String[] {
 				"Yeeish",
 				"Yeeish",
@@ -344,7 +307,7 @@ public class EaglerProfile {
 		
 		do {
 			username = usernameDefaultWords[rand.nextInt(usernameDefaultWords.length)] + usernameDefaultWords[rand.nextInt(usernameDefaultWords.length)] + (10 + rand.nextInt(90));
-		}while(username.length() > 16);
+		}while(username.length() > 20);
 		
 		presetSkinId = rand.nextInt(GuiScreenEditProfile.defaultOptions.length);
 		myChannel = username + "_" + (100 + rand.nextInt(900));
