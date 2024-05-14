@@ -25,15 +25,11 @@ The Branches of the project will have different themes included:
 
 **Original**
 
-The default branch, with the new features included
-
-**1.0.16_05**
-
-A recreation of Alphaver in Eaglercraft Beta (See README.md)
+The default branch, with new features and gimmicks added to Eaglercraft!
 
 ## What's New?
 
-The default branch, with new features included
+This is the **Default** Branch.
 
 Features in this branch included:
 
