@@ -36,7 +36,7 @@ Features in this branch included:
 - New Textures
 - New Skins
 - New Music
-- New Features
+- New Gimmicks
 
 ## Texture Packs
 
