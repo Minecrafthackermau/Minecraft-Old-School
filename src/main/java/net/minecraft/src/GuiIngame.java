@@ -187,7 +187,7 @@ public class GuiIngame extends Gui {
 			drawString(fontrenderer, (new StringBuilder()).append("z: ").append(mc.thePlayer.posZ).toString(), 2, 80,
 					0xe0e0e0);
 		} else {
-			fontrenderer.drawStringWithShadow("Minecraft Beta 1.3_01", 2, 2, 0xffffff);
+			fontrenderer.drawStringWithShadow("Minecraft Old-School", 2, 2, 0xffffff);
 		}
 		if (recordPlayingUpFor > 0) {
 			float f2 = (float) recordPlayingUpFor - f;
