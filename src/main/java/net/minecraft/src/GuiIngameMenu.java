@@ -53,7 +53,7 @@ public class GuiIngameMenu extends GuiScreen {
 			float f1 = ((float) (updateCounter % 10) + f) / 10F;
 			f1 = MathHelper.sin(f1 * 3.141593F * 2.0F) * 0.2F + 0.8F;
 			int k = (int) (255F * f1);
-			drawString(fontRenderer, "Saving level..", 8, height - 16, k << 16 | k << 8 | k);
+			drawString(fontRenderer, "Saving World..", 8, height - 16, k << 16 | k << 8 | k);
 		}
 		drawCenteredString(fontRenderer, "Game menu", width / 2, 40, 0xffffff);
 		super.drawScreen(i, j, f);
