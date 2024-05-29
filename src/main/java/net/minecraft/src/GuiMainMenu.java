@@ -93,7 +93,7 @@ public class GuiMainMenu extends GuiScreen {
 		EaglerAdapter.glScalef(f1, f1, f1);
 		drawCenteredString(fontRenderer, splashText, 0, -8, 0xffff00);
 		EaglerAdapter.glPopMatrix();
-		drawString(fontRenderer, "Minecraft Beta 1.3_01", 2, 2, 0x505050);
+		drawString(fontRenderer, "Minecraft Old-School", 2, 2, 0x505050);
 		//String s = "Copyright Mojang AB. Do not distribute.";
 		String s = "site resources - Copyright Mojang AB.";
 		drawString(fontRenderer, s, width - fontRenderer.getStringWidth(s) - 2, height - 10, 0xffffff);
