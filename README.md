@@ -29,7 +29,7 @@ The default branch, with new features and gimmicks added to Eaglercraft!
 
 ## What's New?
 
-This is the **Default** Branch.
+This is the **Original** Branch.
 
 Features in this branch included:
 
