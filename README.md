@@ -7,7 +7,7 @@ Welcome To Minecraft Old-School, a project that aims to add new features to Eagl
 ## Compiling
 (From Original Repo)
 
-Note: There will be Updates To `src/java` & `lwjgl-rundir/resources` for new Old-School updates. The `lwjgl-rundir/resources` will have to be changed by you using the `run.bat`.
+Note: There will be Updates To `src/java` & `lwjgl-rundir/resources` for new Old-School updates. The `lwjgl-rundir/resources` will have to be changed by you using the `run.bat`. (The HTML file in the /javascript folder has no changes to it, so you need to change it yourself.)
 
 Just import this entire repository as a gradle project and use the **teavmc** gradle task. It will generate a `classes.js` in the `javascript` folder of this repository.
 
