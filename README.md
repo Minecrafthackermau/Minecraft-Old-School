@@ -48,6 +48,6 @@ In 1.0.5a, the texture pack menu was added, as it was unused. To add a texture p
 ## Project Contributors
 Saiyan Gonzalez (Creator)
 
-Radmanplays (Original Repo Creator)
+Radmanplays (Original Eagler 1.3 Repo Creator)
 
 
