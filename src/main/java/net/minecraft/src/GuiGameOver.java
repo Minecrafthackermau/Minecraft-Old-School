@@ -16,7 +16,7 @@ public class GuiGameOver extends GuiScreen {
 		controlList.clear();
 		controlList.add(new GuiButton(1, width / 2 - 100, height / 4 + 72, "Respawn"));
 		controlList.add(new GuiButton(2, width / 2 - 100, height / 4 + 96, "Title menu"));
-		controlList.add(new GuiButton(2, width / 2 - 100, height / 4 + 96, "Options"));
+		controlList.add(new GuiButton(3, width / 2 - 100, height / 4 + 96, "Options"));
 		if (mc.session == null) {
 			((GuiButton) controlList.get(1)).enabled = false;
 		}
@@ -36,7 +36,7 @@ public class GuiGameOver extends GuiScreen {
 			mc.changeWorld1(null);
 			mc.displayGuiScreen(new GuiMainMenu());
 		}
-		if (guibutton.id == 2) {
+		if (guibutton.id == 3) {
 			mc.displayGuiScreen(new GuiOptions(this, mc.gameSettings));
 		}
 	}
