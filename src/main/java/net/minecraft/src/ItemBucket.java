@@ -10,7 +10,7 @@ public class ItemBucket extends Item {
 
 	public ItemBucket(int i, int j) {
 		super(i);
-		maxStackSize = 1;
+		maxStackSize = 16;
 		maxDamage = 64;
 		isFull = j;
 	}
