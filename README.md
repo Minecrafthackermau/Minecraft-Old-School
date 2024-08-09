@@ -21,8 +21,6 @@ To compile the server, read the [readme.txt](https://github.com/LAX1DUDE/eaglerc
 
 ## Branches
 
-The Branches of the project will have different themes included:
-
 **Original**
 
 The default branch, with new features and gimmicks added to Eaglercraft!
