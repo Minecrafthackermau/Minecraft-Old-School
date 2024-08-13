@@ -1,6 +1,6 @@
 ## Minecraft Old-School
 
-Welcome To Minecraft Old-School, a project that aims to add new features to Eaglercraft 1.3_01.
+Welcome To Minecraft Old-School, a project that aims to add new features to Eaglercraft 1.3_01. (This Project is now stable, which means that no new major updates will happen.)
 
 ![Screenshot 2024-02-12 3 51 12 PM](https://github.com/SaiyanGonzalez01/Minecraft-Old-School/assets/153963453/4b483027-043e-449c-9761-93bd9bdd7e2a)
 
