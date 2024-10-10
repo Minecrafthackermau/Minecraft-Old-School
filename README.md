@@ -1,4 +1,4 @@
-## Minecraft Old-School
+## Minecraft Old-School (Stabilized)
 
 Welcome To Minecraft Old-School, a project that aims to add new features to Eaglercraft 1.3_01. (This Project is now stable, which means that no new major updates will happen.)
 
